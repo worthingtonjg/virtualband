@@ -1,0 +1,4 @@
+C:\code\buildhack2016\VirtualBand\Src\VirtualBand\Output\VirtualBand\VirtualBand.csproj;x86
+C:\code\buildhack2016\VirtualBand\Src\VirtualBand\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\code\buildhack2016\VirtualBand\Src\VirtualBand\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\code\buildhack2016\VirtualBand\Src\VirtualBand\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

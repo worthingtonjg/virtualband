@@ -1,0 +1,1 @@
+C:\code\buildhack2016\VirtualBand\Src\VirtualBand\UWP\Assembly-CSharp\obj\x64\Debug\x64\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
